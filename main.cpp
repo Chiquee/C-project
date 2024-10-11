@@ -1,14 +1,19 @@
 #include <iostream>
 using namespace std;
 
+  int num1;
+
 int main(){
 
-int num;
+    cout << "Enter your integer:";
+    cin >> num1;
 
-    cout << "Enter a positive number to be multiply:";
-    cin >> num;
-
-    for (int i = 1; i <=10; i++){
-    cout << num << "x" << i << "=" << num * i << endl;}
+    if(num1 / 2*2 == num1){
+     cout << "is even";
+    }
+    else{
+     cout << "is odd";
+    }
     return 0;
 }
+
