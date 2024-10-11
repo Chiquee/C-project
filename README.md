@@ -4,7 +4,7 @@ Instructions how to use the codes:
 
 first, click the file
 
-second, go to three dots
+second, go to arrow beside the pen
 
 third, click 'github.dev'
 
